@@ -14,7 +14,7 @@ module.exports = {
       colors: {
         "black-100": "#2B2C35",
         "primary-blue": {
-          DEFAULT: "#2B59FF",
+          DEFAULT: "#16a34a",
           100: "#F5F8FF",
         },
         "secondary-orange": "#f79761",
@@ -26,7 +26,8 @@ module.exports = {
       },
       backgroundImage: {
         'pattern': "url('/pattern.png')",
-        'hero-bg': "url('/hero-bg.png')"
+        'hero-bg': "url('/hero-bg-1.png')"
+        // 'hero-bg': "url('/hero-bg.png')"
       }
     },
   },

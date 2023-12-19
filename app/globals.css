@@ -47,7 +47,7 @@
 }
 
 .hero__subtitle {
-  @apply text-[27px] text-black-100 font-light mt-5;
+  @apply text-[27px] text-gray-400 font-light mt-5;
 }
 
 .hero__image-container {
@@ -66,7 +66,7 @@
 /* START: Home styles */
 
 .home__text-container {
-  @apply flex flex-col items-start justify-start gap-y-2.5 text-black-100;
+  @apply flex flex-col items-start justify-start gap-y-2.5 text-gray-400;
 }
 
 .home__filters {
@@ -217,3 +217,8 @@
   @apply cursor-default select-none py-2 pl-10 pr-4;
 }
 /* END: search manufacturer styles */
+
+
+
+
+/* 142.1 76.2% 36.3% */
