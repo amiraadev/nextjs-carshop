@@ -1,5 +1,9 @@
-import CustomButton from './CustomButton'
-import Footer from './Footer'
-import Hero from './Hero'
-import Navbar from './Navbar'
-export {Hero,CustomButton,Navbar,Footer}
+/** @format */
+
+import CustomButton from "./CustomButton";
+import Footer from "./Footer";
+import Hero from "./Hero";
+import Navbar from "./Navbar";
+import SearchBar from "./SearchBar";
+import CustomFilter from "./CustomFilter";
+export { Hero, CustomButton, Navbar, Footer, SearchBar, CustomFilter };
