@@ -26,12 +26,3 @@ This repository contains a Next.js application built with Headless UI, demonstra
 - **Custom Components**: Developed custom filter components, comboboxes, and modal elements for enhanced UI/UX.
 - **Clean Code Practices**: Embraced coding principles for maintainability, readability, and scalability.
 
-## Getting Started:
-
-Follow these steps to run the project locally:
-
-1. Clone the repository:
-
-   ```bash
-   git clone <repository_URL>
-   cd nextjs-headless-ui-app
