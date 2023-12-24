@@ -1,5 +1,6 @@
 # Next.js App with Headless UI
-![Next.js App Screenshot](/homepage.png)
+![Next.js App Screenshot](public/homepage.png)
+![Next.js App Screenshot](public/filters.png)
 
 This repository contains a Next.js application built with Headless UI, demonstrating various functionalities and best practices. Throughout this project, you'll learn how to implement the following features and techniques:
 ## Key Features:
