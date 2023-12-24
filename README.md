@@ -1,36 +1,32 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Next.js App with Headless UI
+![Next.js App Screenshot](/homepage.png)
 
-## Getting Started
+This repository contains a Next.js application built with Headless UI, demonstrating various functionalities and best practices. Throughout this project, you'll learn how to implement the following features and techniques:
+## Key Features:
 
-First, run the development server:
+- Utilizing Next.js 13 App Router and Server-Side Rendering for efficient page navigation and improved performance.
+- Implementation of Advanced Search Functionality, allowing users to search for specific content efficiently.
+- Creating Filtering Capabilities to refine displayed content based on user preferences or criteria.
+- Optimization of Metadata and SEO practices to enhance the application's visibility on search engines.
+- Development of custom filter components, comboboxes, and modal elements using Headless UI.
+- Maintaining a well-organized file and folder structure to ensure code readability and scalability.
+- Embracing the principles of writing clean code to enhance maintainability and ease of understanding.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Technologies Used:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Next.js 13**: Utilized for building a React-based web application with powerful features.
+- **Headless UI**: Implemented custom UI elements for improved user interaction and experience.
+- **Server-Side Rendering (SSR)**: Utilized for pre-rendering pages on the server, enhancing SEO and performance.
+- **Metadata Optimization**: Ensured optimal metadata for SEO purposes to improve search engine visibility.
+- **Custom Components**: Developed custom filter components, comboboxes, and modal elements for enhanced UI/UX.
+- **Clean Code Practices**: Embraced coding principles for maintainability, readability, and scalability.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Getting Started:
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Follow these steps to run the project locally:
 
-## Learn More
+1. Clone the repository:
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+   ```bash
+   git clone <repository_URL>
+   cd nextjs-headless-ui-app
