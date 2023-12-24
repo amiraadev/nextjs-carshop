@@ -13,6 +13,9 @@ This repository contains a Next.js application built with Headless UI, demonstra
 - Development of custom filter components, comboboxes, and modal elements using Headless UI.
 - Maintaining a well-organized file and folder structure to ensure code readability and scalability.
 - Embracing the principles of writing clean code to enhance maintainability and ease of understanding.
+- Integration of Tailwind CSS for easy and efficient styling of components.
+- Implementation of TypeScript for improved type safety and enhanced development experience.
+- Ensuring Responsiveness across various devices and screen sizes for an optimal user experience.
 
 ## Technologies Used:
 
